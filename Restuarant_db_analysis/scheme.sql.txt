@@ -1,0 +1,17 @@
+Table: menu_items
+Columns:
+
+menu_item_id smallint PK 
+item_name varchar(45) 
+category varchar(45) 
+price decimal(5,2)
+
+
+
+Table: menu_items
+Columns:
+
+menu_item_id smallint PK 
+item_name varchar(45) 
+category varchar(45) 
+price decimal(5,2)
